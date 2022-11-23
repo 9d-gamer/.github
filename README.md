@@ -1,11 +1,11 @@
-### Hello World  
+### <div align="center">Hello World</div>  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm 9dgamer, a full-time FiveM developer 👨‍💻 working remotely since 2017 🚀</div>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9d-gamer" alt="9d-gamer" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9d-gamer" alt="9d-gamer" /></a> </p>
 
 - 🌱 I’m currently learning Popular Languages from aptech  
   
@@ -18,7 +18,7 @@
 
 <br/>  
 
-## My Skill Set  
+## <div align="center">My Skill Set</div>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
@@ -45,7 +45,7 @@
 <br/>  
 
 
-## Connect with me  
+## <div align="center">Connect with me</div>
 <div align="center">
 <a href="https://github.com/9d-gamer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -59,10 +59,10 @@
 <br/>  
 
 
-## Github Stats  
+## <div align="center">Github Stats</div> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=9d-gamer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9d-gamer&hide_border=true&layout=compact" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9d-gamer&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -71,18 +71,14 @@
 <br/>  
 
 
-## Spotify Listening  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=imgagaovafashion&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)  
+## <div align="center">Spotify Listening</div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=imgagaovafashion&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username9d-gamer&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=9d-gamer&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<div align="center"></div>
 <br />
 
